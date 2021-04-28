@@ -1,10 +1,6 @@
 
 @media only screen and (max-width: 1050px){
     
-    html{
-        overflow: hidden;
-    }
-    
     .navbar{
        display: flex;
        flex-direction: column;
